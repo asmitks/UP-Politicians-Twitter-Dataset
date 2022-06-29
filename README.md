@@ -1,5 +1,5 @@
 
-# Uttar Pradesh Elections 2022 Dataset | [Paper Link]([https://link-url-here.org](https://dl.acm.org/doi/10.1145/3530190.3534845))
+# Uttar Pradesh Elections 2022 Dataset | [Paper Link](https://dl.acm.org/doi/10.1145/3530190.3534845)
 *Copyright © 2022 Precog Research Group, IIIT Hyderabad*
 
 If you use this dataset, please cite our work as:
